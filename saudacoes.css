@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+
+h1 {
+    color: #616161;
+}
+
+section {
+    padding-top: 20px;
+    font-size: 25px;
+    
+}
+
+#msg {
+    padding-bottom: 30px;
+    color: #616161;
+}
+
+img {
+    border-radius: 50px;
+}
